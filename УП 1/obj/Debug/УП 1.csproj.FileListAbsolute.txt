@@ -1,0 +1,22 @@
+F:\3021\УП 1\УП 1\bin\Debug\УП 1.exe.config
+F:\3021\УП 1\УП 1\bin\Debug\УП 1.exe
+F:\3021\УП 1\УП 1\bin\Debug\УП 1.pdb
+F:\3021\УП 1\УП 1\obj\Debug\УП 1.csproj.AssemblyReference.cache
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form1.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Properties.Resources.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП 1.csproj.GenerateResource.cache
+F:\3021\УП 1\УП 1\obj\Debug\УП 1.csproj.CoreCompileInputs.cache
+F:\3021\УП 1\УП 1\obj\Debug\УП 1.exe
+F:\3021\УП 1\УП 1\obj\Debug\УП 1.pdb
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form2.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form3.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form4.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form5.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form6.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form7.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form8.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form9.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form10.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form11.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form12.resources
+F:\3021\УП 1\УП 1\obj\Debug\УП_1.Form13.resources
